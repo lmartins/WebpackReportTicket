@@ -1,0 +1,9 @@
+{
+  "name": "iDomLive",
+  "paths": [],
+  "local": [],
+  "dependencies": {
+    "component/css": "*",
+    "component/tip": "*"
+  }
+}
